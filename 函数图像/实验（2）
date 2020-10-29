@@ -1,3 +1,5 @@
+from tkinter import *
+
 def hanshu1():
     import numpy as np
     import matplotlib.pyplot as plt
